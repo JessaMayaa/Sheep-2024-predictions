@@ -7,3 +7,4 @@
 
 Lucky numbers: 1, 6;
 lucky colour: gold;
+lucky element: platinum
